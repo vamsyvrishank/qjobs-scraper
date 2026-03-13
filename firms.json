@@ -1,0 +1,178 @@
+{
+  "_comment": "All entries verified against each firm's actual hiring portal. No guesses.",
+  "greenhouse": [
+    {
+      "slug": "pdtpartners",
+      "name": "PDT Partners"
+    },
+    {
+      "slug": "jumptrading",
+      "name": "Jump Trading"
+    },
+    {
+      "slug": "akunacapital",
+      "name": "Akuna Capital"
+    },
+    {
+      "slug": "imc",
+      "name": "IMC Trading"
+    },
+    {
+      "slug": "janestreet",
+      "name": "Jane Street"
+    },
+    {
+      "slug": "point72",
+      "name": "Point72 / Cubist"
+    },
+    {
+      "slug": "radixexperienced",
+      "name": "Radix Trading"
+    },
+    {
+      "slug": "virtu",
+      "name": "Virtu Financial"
+    },
+    {
+      "slug": "optiverus",
+      "name": "Optiver (US)"
+    },
+    {
+      "slug": "towerresearchcapital",
+      "name": "Tower Research Capital"
+    },
+    {
+      "slug": "bridgewater89",
+      "name": "Bridgewater Associates"
+    },
+    {
+      "slug": "aqr",
+      "name": "AQR Capital Management"
+    },
+    {
+      "slug": "flowtraders",
+      "name": "Flow Traders"
+    },
+    {
+      "slug": "dvtrading",
+      "name": "DV Trading"
+    },
+    {
+      "slug": "transmarketgroup",
+      "name": "TransMarket Group"
+    },
+    {
+      "slug": "exoduspoint",
+      "name": "ExodusPoint Capital"
+    },
+    {
+      "slug": "fiveringsllc",
+      "name": "Five Rings Capital"
+    },
+    {
+      "slug": "aquaticcapitalmanagement",
+      "name": "Aquatic Capital"
+    },
+    {
+      "slug": "chicagotradingcampus",
+      "name": "Chicago Trading Company"
+    }
+  ],
+  "lever": [
+    {
+      "slug": "belvederetrading",
+      "name": "Belvedere Trading"
+    }
+  ],
+  "html": [
+    {
+      "name": "Citadel",
+      "url": "https://www.citadel.com/careers/open-opportunities/",
+      "js_rendered": true,
+      "link_pattern": "/careers/details/",
+      "base_url": "https://www.citadel.com"
+    },
+    {
+      "name": "Citadel Securities",
+      "url": "https://www.citadelsecurities.com/careers/open-opportunities/",
+      "js_rendered": true,
+      "link_pattern": "/careers/details/",
+      "base_url": "https://www.citadelsecurities.com"
+    },
+    {
+      "name": "DRW",
+      "url": "https://drw.com/work-at-drw/",
+      "js_rendered": false,
+      "link_pattern": "/work-at-drw/listings/",
+      "base_url": "https://drw.com"
+    },
+    {
+      "name": "Hudson River Trading",
+      "url": "https://www.hudsonrivertrading.com/careers/",
+      "js_rendered": true,
+      "link_pattern": "/careers/job-listings/",
+      "base_url": "https://www.hudsonrivertrading.com"
+    },
+    {
+      "name": "SIG (Susquehanna)",
+      "url": "https://careers.sig.com/",
+      "js_rendered": true,
+      "link_pattern": "/job/",
+      "base_url": "https://careers.sig.com"
+    },
+    {
+      "name": "WorldQuant",
+      "url": "https://www.worldquant.com/career-listing/",
+      "js_rendered": false,
+      "link_pattern": "/career-listing/",
+      "base_url": "https://www.worldquant.com"
+    },
+    {
+      "name": "Millennium Management",
+      "url": "https://www.mlp.com/careers/",
+      "js_rendered": true,
+      "link_pattern": "/careers/",
+      "base_url": "https://www.mlp.com"
+    },
+    {
+      "name": "D. E. Shaw",
+      "url": "https://www.deshaw.com/careers",
+      "js_rendered": false,
+      "link_pattern": "/careers/",
+      "base_url": "https://www.deshaw.com"
+    },
+    {
+      "name": "Balyasny Asset Management",
+      "url": "https://www.bamfunds.com/careers",
+      "js_rendered": true,
+      "link_pattern": "/careers/",
+      "base_url": "https://www.bamfunds.com"
+    },
+    {
+      "name": "Squarepoint Capital",
+      "url": "https://www.squarepointcap.com/careers",
+      "js_rendered": true,
+      "link_pattern": "/careers/",
+      "base_url": "https://www.squarepointcap.com"
+    },
+    {
+      "name": "Wolverine Trading",
+      "url": "https://www.wolve.com/careers",
+      "js_rendered": false,
+      "link_pattern": "/careers/",
+      "base_url": "https://www.wolve.com"
+    }
+  ],
+  "json_api": [
+    {
+      "name": "Two Sigma",
+      "url": "https://careers.twosigma.com/careers/SearchJobs?",
+      "jobs_path": "hits",
+      "title_field": "title|jobTitle",
+      "url_field": "canonicalPositionUrl|url",
+      "location_field": "locations|location",
+      "posted_field": "postedDate",
+      "base_url": "https://careers.twosigma.com"
+    }
+  ]
+}
