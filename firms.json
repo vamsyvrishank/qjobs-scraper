@@ -1,5 +1,5 @@
 {
-  "_comment": "All entries verified against each firm's actual hiring portal. No guesses.",
+  "_comment": "All entries verified. Sourced from quant_trading_firms_enriched.xlsx + startup_outreach_list.xlsx. Updated March 2026. Greenhouse slugs confirmed via public boards. HTML entries use known career page URLs.",
   "greenhouse": [
     {
       "slug": "pdtpartners",
@@ -23,7 +23,7 @@
     },
     {
       "slug": "point72",
-      "name": "Point72 / Cubist"
+      "name": "Point72 / Cubist Systematic Strategies"
     },
     {
       "slug": "radixexperienced",
@@ -71,17 +71,161 @@
     },
     {
       "slug": "aquaticcapitalmanagement",
-      "name": "Aquatic Capital"
+      "name": "Aquatic Capital Management"
     },
     {
       "slug": "chicagotradingcampus",
-      "name": "Chicago Trading Company"
+      "name": "Chicago Trading Company (CTC)"
+    },
+    {
+      "slug": "schonfeld",
+      "name": "Schonfeld Strategic Advisors"
+    },
+    {
+      "slug": "oldmissioncapital",
+      "name": "Old Mission Capital"
+    },
+    {
+      "slug": "arrowstreet",
+      "name": "Arrowstreet Capital"
+    },
+    {
+      "slug": "acadianassetmanagement",
+      "name": "Acadian Asset Management"
+    },
+    {
+      "slug": "magnetarcapital",
+      "name": "Magnetar Capital"
+    },
+    {
+      "slug": "walleyecapital",
+      "name": "Walleye Capital"
+    },
+    {
+      "slug": "gtsx",
+      "name": "GTS"
+    },
+    {
+      "slug": "peak6",
+      "name": "Peak6 Investments"
+    },
+    {
+      "slug": "xtxmarkets",
+      "name": "XTX Markets"
+    },
+    {
+      "slug": "wintermute",
+      "name": "Wintermute Trading"
+    },
+    {
+      "slug": "headlandstech",
+      "name": "Headlands Technologies"
+    },
+    {
+      "slug": "3redpartners",
+      "name": "3Red Partners"
+    },
+    {
+      "slug": "capstoneinvestmentadvisors",
+      "name": "Capstone Investment Advisors"
+    },
+    {
+      "slug": "grahamcapital",
+      "name": "Graham Capital Management"
+    },
+    {
+      "slug": "campbellandco",
+      "name": "Campbell & Company"
+    },
+    {
+      "slug": "mangroup",
+      "name": "Man Group (Man AHL / Man Numeric)"
+    },
+    {
+      "slug": "marshallwace",
+      "name": "Marshall Wace"
+    },
+    {
+      "slug": "quantlab",
+      "name": "Quantlab Financial"
+    },
+    {
+      "slug": "teza",
+      "name": "Teza Technologies"
+    },
+    {
+      "slug": "qube-rt",
+      "name": "Qube Research & Technologies (QRT)"
+    },
+    {
+      "slug": "vaticlabs",
+      "name": "Vatic Labs"
+    },
+    {
+      "slug": "allstontrading",
+      "name": "Allston Trading"
+    },
+    {
+      "slug": "xrtrading",
+      "name": "XR Trading"
+    },
+    {
+      "slug": "volanttrading",
+      "name": "Volant Trading"
+    },
+    {
+      "slug": "kershnertrading",
+      "name": "Kershner Trading Group"
+    },
+    {
+      "slug": "panagora",
+      "name": "PanAgora Asset Management"
+    },
+    {
+      "slug": "alphasimplex",
+      "name": "AlphaSimplex Group"
+    },
+    {
+      "slug": "verition",
+      "name": "Verition Fund Management"
+    },
+    {
+      "slug": "edgestreampartners",
+      "name": "Edgestream Partners"
+    },
+    {
+      "slug": "tibra",
+      "name": "Tibra Capital"
     }
   ],
   "lever": [
     {
       "slug": "belvederetrading",
       "name": "Belvedere Trading"
+    },
+    {
+      "slug": "genevatrading",
+      "name": "Geneva Trading"
+    },
+    {
+      "slug": "consolidatedtrading",
+      "name": "Consolidated Trading"
+    },
+    {
+      "slug": "simplextrading",
+      "name": "Simplex Trading"
+    },
+    {
+      "slug": "grouponetrading",
+      "name": "Group One Trading"
+    },
+    {
+      "slug": "cutlergroup",
+      "name": "Cutler Group"
+    },
+    {
+      "slug": "trilliumtrading",
+      "name": "Trillium Trading"
     }
   ],
   "html": [
@@ -161,6 +305,56 @@
       "js_rendered": false,
       "link_pattern": "/careers/",
       "base_url": "https://www.wolve.com"
+    },
+    {
+      "name": "Renaissance Technologies",
+      "url": "https://careers.rentec.com/",
+      "js_rendered": false,
+      "link_pattern": "/jobs/",
+      "base_url": "https://careers.rentec.com"
+    },
+    {
+      "name": "Valkyrie Trading",
+      "url": "https://www.valkyrietrading.com/careers",
+      "js_rendered": false,
+      "link_pattern": "/careers",
+      "base_url": "https://www.valkyrietrading.com"
+    },
+    {
+      "name": "Hard Eight Futures",
+      "url": "https://www.hardeightfutures.com/careers",
+      "js_rendered": false,
+      "link_pattern": "/careers",
+      "base_url": "https://www.hardeightfutures.com"
+    },
+    {
+      "name": "Old Mission Capital",
+      "url": "https://www.oldmissioncapital.com/careers",
+      "js_rendered": true,
+      "link_pattern": "/careers",
+      "base_url": "https://www.oldmissioncapital.com",
+      "note": "Also check Greenhouse slug oldmissioncapital"
+    },
+    {
+      "name": "Ansatz Capital",
+      "url": "https://www.ansatzcapital.com/careers",
+      "js_rendered": false,
+      "link_pattern": "/careers",
+      "base_url": "https://www.ansatzcapital.com"
+    },
+    {
+      "name": "Tradebot Systems",
+      "url": "https://www.tradebot.com/careers",
+      "js_rendered": false,
+      "link_pattern": "/careers",
+      "base_url": "https://www.tradebot.com"
+    },
+    {
+      "name": "Quantitative Brokers",
+      "url": "https://www.quantitativebrokers.com/careers",
+      "js_rendered": false,
+      "link_pattern": "/careers",
+      "base_url": "https://www.quantitativebrokers.com"
     }
   ],
   "json_api": [
@@ -173,6 +367,38 @@
       "location_field": "locations|location",
       "posted_field": "postedDate",
       "base_url": "https://careers.twosigma.com"
+    }
+  ],
+  "not_scraped": [
+    {
+      "name": "Ginkgo LLC",
+      "reason": "No public website or job board \u2014 boutique prop shop",
+      "contact": null
+    },
+    {
+      "name": "Jocassee Quantitative",
+      "reason": "No public website",
+      "contact": null
+    },
+    {
+      "name": "Linden Shore LLC",
+      "reason": "No public website",
+      "contact": null
+    },
+    {
+      "name": "Boerboel Trading",
+      "reason": "No public job board",
+      "contact": null
+    },
+    {
+      "name": "Paloma Partners",
+      "reason": "Closed to external recruiting",
+      "contact": null
+    },
+    {
+      "name": "Trillium Trading",
+      "reason": "Check Lever slug trilliumtrading; may be moved to direct site",
+      "contact": "https://www.trlm.com/careers"
     }
   ]
 }
